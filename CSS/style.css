@@ -30,7 +30,3 @@ header {
 .nav-link {
     color: magenta;
 }
-
-.nav-item.active {
-    color: deeppink;
-}
