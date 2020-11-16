@@ -12,7 +12,7 @@ body {
 header {
     width: 100%;
     background-color: black;
-    border: magenta solid .5px;
+    border: magenta solid 1.5px;
     padding-top: 5px;
 }
 
@@ -29,4 +29,17 @@ header {
 
 .nav-link {
     color: magenta;
+}
+
+/* Style for the footer */
+
+footer {
+    width: 100%;
+    background-color: black;
+    border: magenta solid 1.5px;
+    padding-top: 5px;
+}
+
+h4 {
+    text-align: center;
 }
