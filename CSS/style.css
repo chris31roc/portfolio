@@ -12,7 +12,7 @@ body {
 header {
     width: 100%;
     background-color: black;
-    border: magenta solid 2px;
+    border: magenta solid .5px;
     padding-top: 5px;
 }
 
