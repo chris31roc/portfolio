@@ -1,0 +1,36 @@
+html {
+    overflow-y: scroll;
+}
+
+body {
+    background-image: url('https://i.pinimg.com/originals/77/c8/12/77c8122be1b1b74011f88047281f5b3f.jpg');
+    background-attachment: fixed;
+    background-size: 100%;}
+
+/* Style for the navbar     */
+
+header {
+    width: 100%;
+    background-color: black;
+    border: magenta solid 2px;
+    padding-top: 5px;
+}
+
+#chrisFont {
+    font-family: 'Caveat', cursive;
+    color: magenta;
+}
+
+#rightNav {
+    float: right;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 25px;
+}
+
+.nav-link {
+    color: magenta;
+}
+
+.nav-item.active {
+    color: deeppink;
+}
