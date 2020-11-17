@@ -23,18 +23,18 @@ scrolls down or up.
 * index.html page consists of main bio and a photo of me
 
 * Portfolio page consists of photos of my work and travels that 
-render will when sized down or to large screens.
+render well when sized down or to large screens.
 
 * Contact page consists of a form for the user to enter his or her 
-contact info and can leave a message if they shall so please.
+contact info and can leave a message if they so shall please.
 
 * Contact page also consists of my social media outlets to enure the
-user they can conncet with me immediately.
+user can conncet with me immediately.
 
 ## Support and contact details
 Please email me for further questions at chris31roc@yahoo.com
 
 ## Technologies Used
-HTML
-CSS
-Bootstrap
+* HTML
+* CSS
+* Bootstrap
