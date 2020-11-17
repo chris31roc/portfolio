@@ -31,6 +31,43 @@ header {
     color: magenta;
 }
 
+/* Style for the index.html page */
+
+/* Style for the main content */
+
+.content-center {
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0.966);
+    border: magenta solid 1.5px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: white;
+}
+
+.card-body {
+    /* text-align: center; */
+    align-items: center;
+}
+
+.img-thumbnail {
+    border: magenta solid 1.5px;
+    background-color: black;
+    margin-right: 15px;
+}
+
+#chrisPhoto {
+ max-width: auto;
+ float: left;
+ height: auto;
+}
+
+/* End of Style for index.html page */
+
 /* Style for the footer */
 
 footer {
