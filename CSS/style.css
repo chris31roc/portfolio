@@ -5,7 +5,11 @@ html {
 body {
     background-image: url('../Assets/warp-speed.jpg');
     background-attachment: fixed;
-    background-size: 100%;}
+    background-size: 100%;
+}
+
+
+
 
 /* Style for the navbar     */
 
@@ -30,6 +34,11 @@ header {
 .nav-link {
     color: magenta;
 }
+
+
+
+
+
 
 /* Style for the index.html page */
 
@@ -69,9 +78,42 @@ header {
 
 /* End of Style for index.html page */
 
+
+
+
+/* Style for portfolio.html */
+
 #bottomRow {
     padding-top: 20px;
 }
+
+/* End of style for portfolio.html */
+
+
+
+
+/* Style for contact.html */
+
+#contactForm {
+    max-width: 90%;
+    /* margin-left: 50px;
+    margin-right: 50px; */
+    margin-top: 90px;
+    margin-bottom: 100px;
+    background-color: rgba(0, 0, 0, 0.897);
+    padding: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;;
+    color: white;
+}
+
+h5 {
+    padding-top: 10px;
+}
+
+/* End of style for contact.html */
+
+
+
 
 /* Style for the footer */
 
