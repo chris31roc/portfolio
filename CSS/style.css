@@ -87,6 +87,16 @@ header {
     padding-top: 20px;
 }
 
+#middleRow {
+    padding-top: 20px;
+}
+
+#topRow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 /* End of style for portfolio.html */
 
 
