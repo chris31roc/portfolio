@@ -83,19 +83,26 @@ header {
 
 /* Style for portfolio.html */
 
-#bottomRow {
-    padding-top: 20px;
-}
-
-#middleRow {
-    padding-top: 20px;
-}
-
 #topRow {
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
+#secondRow {
+    padding-top: 20px;
+}
+
+#thirdRow {
+    padding-top: 20px;
+}
+
+#bottomRow {
+    padding-top: 20px;
+}
+
+
+
 
 /* End of style for portfolio.html */
 
