@@ -1,5 +1,3 @@
-# homework-2
-
 #### Responsive Portfolio 11/17/2020
 #### By Christopher Hicks
 
