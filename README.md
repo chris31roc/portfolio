@@ -1,6 +1,9 @@
 #### Responsive Portfolio 11/17/2020
 #### By Christopher Hicks
 
+#### Link to Application
+[VIEW MY PORTFOLIO HERE!](https://chris31roc.github.io/portfolio/)
+
 ## Description
 This project is to focus on the skills that I have learned thus far in the
 program by creating a responsive design that ensures the web applications render well on a variety of devices and screen sizes by using Bootstrap.
